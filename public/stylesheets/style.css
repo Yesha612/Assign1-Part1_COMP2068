@@ -1,13 +1,18 @@
 body {
+  background-image: url("./images/bg.jpg");
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00B7FF;
+  color: #33FF68;
 }
 
 img {
   width: 100px;
-  height: 150px;
+  height: 100px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
 }
