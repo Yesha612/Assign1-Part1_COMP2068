@@ -6,10 +6,6 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
-router.get('/home', (req, res, next) => {
-  res.render('home', {});
-});
-
 router.get('/aboutme', (req, res, next) => {
   res.render('aboutme', {});
 });

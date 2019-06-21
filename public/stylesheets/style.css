@@ -1,5 +1,4 @@
 body {
-  background-image: url("./images/bg.jpg");
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
@@ -11,8 +10,4 @@ a {
 img {
   width: 100px;
   height: 100px;
-}
-
-p {
-  font-family: Arial, Helvetica, sans-serif;
 }
